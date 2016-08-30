@@ -9,7 +9,7 @@ import org.junit.Test;
 public class TestSmallestMultiple {
 
     @Test
-    public void testLargestPalindrome(){
+    public void testSmallestMultiple(){
         SmallestMultiple sm = new SmallestMultiple();
 
         try{
